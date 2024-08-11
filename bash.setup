@@ -18,4 +18,4 @@ case ${ARGS} in
 	delete) { rm -rf Makefile cmake_install.cmake CMakeCache.txt CMakeFiles Obf; } ;;
 	run) { ./Obf; } ;;
 	*) cat <<< "Opsi: build, delete and run" ;;
-esac￼Enter
+esac
