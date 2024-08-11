@@ -2,7 +2,20 @@
 
 # Author Bayu Rizky A.M
 # Recode Mas Yaddy gantengMax
+
 source lib/moduler.sh
+
+# vscode
+# coding=utf-8
+# ======================================= #
+# HAPUS CREDIT GUA EBOL LU                #
+# COMPILE BY TRIADZZY                     #
+# SUSAH DI DECODE YAK DECK MAMPUS         #
+# 4M0GU2 ON TOP                           #
+# ======================================= #
+# Time : Sun Oct 16 19:11:37 2022
+# Platform : Linux aarch64
+# Obfuscate By Maz Yaddy Gantengz >_<
 
 Namespace Std :: Sys;{
 	{ Bash.import: feature/io.echo && { const: __Say__ =\> say; }; }
